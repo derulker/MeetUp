@@ -1,2 +1,2 @@
 # MeetUp
-A meeting scheduling app that integrates with google calendar
+A meeting scheduling app that integrates with Google Calendar
